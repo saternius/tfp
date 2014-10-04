@@ -1,0 +1,45 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "satern693@gmail.com",
+    "longName": "The Fapp",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "fonts/OSP-DIN_44.ttf",
+                "name": "FONT_DEFAULT_18",
+                "type": "font"
+            },
+            {
+                "file": "fonts/OSP-DIN_44.ttf",
+                "name": "FONT_DEFAULT_20",
+                "type": "font"
+            },
+            {
+                "file": "fonts/04B_19__.TTF",
+                "name": "FONT_FAP_35",
+                "type": "font"
+            },
+            {
+                "file": "fonts/04B_19__.TTF",
+                "name": "FONT_FAP_50",
+                "type": "font"
+            },
+            {
+                "file": "fonts/04B_19__.TTF",
+                "name": "FONT_FAP_22",
+                "type": "font"
+            }
+        ]
+    },
+    "shortName": "The Fapp",
+    "uuid": "7237915e-3011-4e95-b210-384c9d9b5aea",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
